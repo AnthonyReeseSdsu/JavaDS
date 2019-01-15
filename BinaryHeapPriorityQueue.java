@@ -1,9 +1,5 @@
 package data_structures;
-/**
- * Anthony Reese
- * Program #3
- * cssc0931
- */
+
 import java.util.ConcurrentModificationException;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
